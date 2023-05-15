@@ -1,2 +1,2 @@
 # Portfolio
-Learning responsive of website using bootstrap
+Learning website responsive using bootstrap
